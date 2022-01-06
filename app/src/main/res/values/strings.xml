@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DataStoreSample</string>
+    <string name="enter_bookmark_value">Enter Bookmark Value</string>
+    <string name="save_bookmark">Save Bookmark</string>
+    <string name="current_bookmark">Current Bookmark :</string>
+    <string name="none">None</string>
+</resources>
